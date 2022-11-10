@@ -1,0 +1,14 @@
+# Author: Philipp Jeske <philipp.jeske@koenig-bauer.com>
+# Copyright 2022 Koenig & Bauer Coding GmbH
+#
+# SPDX-License-Identifier: MIT 
+
+build
+locks
+
+# conan generated
+CMakeUserPresets.json
+conaninfo.txt
+conanbuildinfo.txt
+conan_imports_manifest.txt
+graph_info.json
